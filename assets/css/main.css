@@ -5,7 +5,7 @@ body{
   /*font-family: 'Raleway', sans-serif;*/
 }
 
-.nav-hero{
+#nav-hero{
   background-image: url("../img/taxi.jpg");
   background-repeat: no-repeat;
   background-size: cover;
@@ -19,4 +19,9 @@ nav{
 
 .bg-yellow{
   background-color: rgb(247, 182, 23);
+}
+
+.border-info{
+  border: 2px solid rgb(255, 255, 255);
+  margin: 50px 20px 50px -5px;
 }
