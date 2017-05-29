@@ -25,3 +25,22 @@ nav{
   border: 2px solid rgb(255, 255, 255);
   margin: 50px 20px 50px -5px;
 }
+
+
+#conduce{
+  background-image: url("../img/conduce.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 80vh;
+}
+
+.bg-black{
+  background-color: rgba(59, 56, 62, 0.45);
+}
+
+#mapa{
+  width: 500px;
+  height: 500px;
+  border: 2px solid rgb(255, 255, 255);
+  margin: 50px 0;
+}
