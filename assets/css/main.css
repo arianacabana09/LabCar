@@ -1,8 +1,11 @@
-@import url('https://fonts.googleapis.com/css?family=Open+Sans|Raleway');
+/*@import url('https://fonts.googleapis.com/css?family=Open+Sans|Raleway');*/
 
-body{
-  font-family: 'Open Sans', sans-serif;
-  /*font-family: 'Raleway', sans-serif;*/
+#nav-hero, #conduce, #footer{
+  font-family: 'Raleway', sans-serif !important;
+}
+
+#info, #tarifas{
+  font-family: 'Open Sans', sans-serif !important;
 }
 
 #nav-hero{
@@ -53,4 +56,8 @@ nav{
 
 .margin{
   margin: 50px;
+}
+
+.white{
+  color: rgb(255, 255, 255);
 }
