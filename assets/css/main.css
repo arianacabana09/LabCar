@@ -5,16 +5,18 @@ body{
   /*font-family: 'Raleway', sans-serif;*/
 }
 
+.nav-hero{
+  background-image: url("../img/taxi.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 80vh;
+}
+
+
 nav{
   background-color: rgb(255, 255, 255);
 }
 
-body{
-  background-image: url("../img/taxi.jpg");
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-
-#form{
-  background-color: rgb(215, 169, 30);
+.bg-yellow{
+  background-color: rgb(247, 182, 23);
 }
